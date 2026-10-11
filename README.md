@@ -3,7 +3,7 @@
 > Personal portfolio website showcasing my journey as a Computer Science & AI student and Java Backend Developer.
 
 🌐 **Live Portfolio:**  
-https://bhoomikajivireddy.github.io/MY_WEBSITE/
+https://bhoomikajivireddy.github.io/Bhoomika-portfolio/
 
 ## About
 
